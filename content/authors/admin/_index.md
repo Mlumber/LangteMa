@@ -3,7 +3,7 @@
 name: Nelson Bighetti
 
 # Username (this should match the folder name)
-authors:
+authors: Langte Ma
 - admin
 
 # Is this the primary user of the site?
@@ -14,28 +14,25 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Brandeis University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geometric Topology
+- Gauge Theory
+- Floer Theory
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - Degree: PhD Candidate in Mathematics
+    institution: Brandeis University
+    year: 2015-
+  - Degree: BSc in Mathematics
+    institution: Shanghai Jiao Tong University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
