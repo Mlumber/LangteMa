@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Langte Ma
 
 # Username (this should match the folder name)
 authors: Langte Ma
@@ -10,7 +10,7 @@ authors: Langte Ma
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - Degree: PhD Candidate in Mathematics
     institution: Brandeis University
-    year: 2015-
+    year: 2015 - 2020
   - Degree: BSc in Mathematics
     institution: Shanghai Jiao Tong University
     year: 2015
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ltmafixer@brandeis.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
